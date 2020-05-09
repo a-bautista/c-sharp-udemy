@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29025.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskCancelled", "TaskCancelled\TaskCancelled.csproj", "{F05A678A-48CB-4979-82CD-0AAA36FBD14E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F05A678A-48CB-4979-82CD-0AAA36FBD14E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F05A678A-48CB-4979-82CD-0AAA36FBD14E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F05A678A-48CB-4979-82CD-0AAA36FBD14E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F05A678A-48CB-4979-82CD-0AAA36FBD14E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {259D914A-B2B8-4692-AC03-6C7946581C34}
+	EndGlobalSection
+EndGlobal
